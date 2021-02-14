@@ -737,6 +737,11 @@ footer {
 }
 
 @media(max-width:992px){
+  .slide-caption.left {
+    max-width: 60vw;
+    text-align: left;
+  }
+
   .slide-caption h1 {
     font-size: 48px;
   }
